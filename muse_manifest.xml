@@ -1,0 +1,90 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="illly.000webhostapp.com" resolutions="1x" timestamp="1532330995796">
+  <folder name="css">
+    <file name="site_global.css" crc="4262033756"/>
+    <file name="master_______-a.css" crc="3941318921" ref="index:politica"/>
+    <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index:politica"/>
+    <file name="index.css" crc="3912348030" ref="index"/>
+    <file name="nomq_index.css" crc="3818567966" ref="index"/>
+    <file name="politica.css" crc="4135372700" ref="politica"/>
+  </folder>
+  <folder name="fonts">
+    <file name="proxima nova regular.woff" crc="3948662752"/>
+    <file name="proxima nova regular.eot" crc="4221075166"/>
+    <file name="proxima nova bold.woff" crc="92787553"/>
+    <file name="proxima nova bold.eot" crc="3922769615"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:politica"/>
+    <file name="museutils.js" crc="17924269" ref="index:politica"/>
+    <file name="whatinput.js" crc="86476730" ref="index:politica"/>
+    <file name="museconfig.js" crc="144853533" ref="index:politica"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:politica"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:politica"/>
+  </folder>
+  <folder name="images">
+    <file name="перевозки-грузов-из-китая-favicon.ico" crc="100374733" ref="index"/>
+    <file name="main.png" crc="399258828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6456.jpg" crc="3912902142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="62622.jpg" crc="4178633704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52542367777.png" crc="304717495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo (1).png" crc="124949551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone.png" crc="322351308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_icon-iconscom_50109.png" crc="4150956202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="004-thumb-up.png" crc="388129811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strelka.png" crc="523316579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6262624.jpg" crc="3977040250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="politica-favicon.ico" crc="100374733" ref="politica"/>
+  </folder>
+  <file name="index.html" crc="4162632951" seo="true" mt="1532329543647" redirect="true"/>
+  <file name="politica.html" crc="4018466181" seo="true" mt="1532258777295" redirect="true"/>
+</manifest>

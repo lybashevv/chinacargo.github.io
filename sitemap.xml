@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://illly.000webhostapp.com/index.html</loc>
+    <lastmod>2018-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/main.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/6456.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/62622.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/52542367777.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/logo%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/location_icon-iconscom_50109.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/004-thumb-up.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/strelka.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://illly.000webhostapp.com/images/6262624.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://illly.000webhostapp.com/politica.html</loc>
+    <lastmod>2018-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
